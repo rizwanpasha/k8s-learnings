@@ -1,2 +1,2 @@
-# k8s-learnings
-k8s-learnings
+# kubernetes-learing
+kubernetes  learning
